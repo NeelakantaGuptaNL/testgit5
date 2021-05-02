@@ -2,4 +2,6 @@
 int main()
 {
 printf("welcome");
+printf("good");
+printf("wonder");
 }
